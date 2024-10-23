@@ -22,7 +22,7 @@ Photofolio is a responsive portfolio website template designed for photographers
 
 ## Demo
 You can view a live demo of the project here:
-[Photofolio Live Demo](#) _(Insert the demo link if hosted online)_
+[Photofolio Live Demo](#) _(https://flora72.github.io/Photofolio/)_
 
 ## Technologies Used
 - **HTML5**: For structuring the website content.
@@ -68,6 +68,7 @@ Contributions are welcome! To contribute:
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a pull request.
+
 
 ## Contact
 For any questions or inquiries, feel free to reach out:
