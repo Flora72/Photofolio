@@ -1,4 +1,3 @@
-
 # Photofolio
 
 Photofolio is a responsive portfolio website template designed for photographers and creatives to showcase their work. It provides an elegant, minimal, and customizable interface to display your photography projects, galleries, and contact information.
